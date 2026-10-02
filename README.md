@@ -1,6 +1,6 @@
 # Hi, I'm Nikita Chaudhary 👋
 
-2nd year B.Tech Computer Science student at ICFAI University, Jaipur.
+3rd year B.Tech Computer Science student at ICFAI University, Jaipur.
 
 ## 🛠️ Skills
 - **Languages:** Python, HTML, CSS, SQL
